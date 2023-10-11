@@ -21,6 +21,7 @@ app.use('/register', require('./routes/register'))
 app.use('/employees', require('./routes/api/employees'))
 
 app.use(logger)
+ 
 
 
 app.use(cors(corsOptions))
