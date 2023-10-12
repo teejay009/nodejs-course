@@ -95,3 +95,4 @@ constitution of Nigeria2023-10-10	11:23:44	eb46fe5c-7ec9-48d0-bbdb-c265d20eb9de	
 2023-10-11	16:23:13	bd159dc5-f7f0-413a-98ad-a4fc59cbc5d8	POST	undefined	/register
 2023-10-11	16:23:14	9829678e-752c-46ce-a03d-2381b5977c54	POST	undefined	/register
 2023-10-11	16:23:14	c2f414ec-b32c-4bc3-be16-f60cfba333ff	POST	undefined	/register
+2023-10-12	12:02:24	d30c5aad-2829-4f76-9e88-bdc8f8c5e37c	POST	undefined	/
